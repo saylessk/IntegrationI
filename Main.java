@@ -122,7 +122,10 @@ public static void main(String[] args) throws InterruptedException {
     	q.statement();
     }
    
+    
+   BankAccount a1 = new BankAccount();
    
+   a1.setBalance(-2);
 
 
 
